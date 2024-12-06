@@ -1,0 +1,49 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-color: darkslategray;
+}
+.header{
+padding-top: 46px;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.item{
+    width: 200px;
+border-radius: 30px;
+background-color: #ff0000;
+text-align: center;
+padding: 14px;
+}
+.link{
+    color: rgb(255, 255, 255);
+}
+.hero{
+    padding-top: 68px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.bola1{
+width: 200px;
+border-radius: 30px;
+background-color: black;
+text-align: center;
+padding: 15px;
+margin: 0 auto;
+color: white;
+list-style: none;
+}
+
+
+
+
+
+
